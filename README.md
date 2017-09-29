@@ -11,3 +11,6 @@ This is a timetable generator that generates timetables randomly for all 8 secti
 
 ## Requirements
 python 2.7
+
+## Contributing
+To contribute to this repository, please read [CONTRIBUTING.md](https://github.com/utkarsh23/Graph-Plotter/blob/master/CONTRIBUTING.md)
